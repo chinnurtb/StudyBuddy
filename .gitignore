@@ -1,0 +1,6 @@
+*.beam
+*.gz
+*.dump
+deps/*
+ebin/*
+priv/log/*
